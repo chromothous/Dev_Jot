@@ -39,5 +39,11 @@ The focus of this project is not only functionality, but also usability, respons
 - **Regular expressions** for syntax highlighting
 - **UUID** for unique snippet identification
 
-You can download the zip from the repo and test it out if you like.
+---
+
+## Prebuilt Executable
+
+A Windows executable is included in Dev Jot.zip for convenience.
+The ZIP contains a bundled build that can be run without installing Python or dependencies.
+
 Let me know what you think at nrda1991@gmail.com
