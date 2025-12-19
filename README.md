@@ -44,7 +44,7 @@ and clean state management.
 
 ## Running Dev Jot
 
-### Option 1: Prebuilt Executable (Windows)
+### Prebuilt Executable (Windows)
 
 A prebuilt Windows executable is included in `Dev Jot.zip`.
 
