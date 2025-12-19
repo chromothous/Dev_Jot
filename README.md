@@ -1,6 +1,6 @@
 # Dev Jot
 
-Dev Jot is a lightweight desktop application for managing, editing, and searching reusable code snippets.  
+Dev Jot is a lightweight desktop application for managing, editing, and searching reusable code snippets.
 It is built in Python using CustomTkinter and designed to prioritize speed, simplicity, and local control.
 
 ---
@@ -8,10 +8,11 @@ It is built in Python using CustomTkinter and designed to prioritize speed, simp
 ## Why Dev Jot Exists
 
 Developers often accumulate useful code snippets scattered across files, notes, or cloud services.
-I built Dev Jot to solve a personal workflow problem:  
-keeping frequently used snippets organized, searchable, and immediately editable in a single, offline-first desktop tool.
+I built Dev Jot to solve a personal workflow problem: keeping frequently used snippets organized,
+searchable, and immediately editable in a single, offline-first desktop tool.
 
-The focus of this project is not only functionality, but also usability, responsiveness, and clean state management.
+The focus of this project is not only functionality, but also usability, responsiveness,
+and clean state management.
 
 ---
 
@@ -32,18 +33,23 @@ The focus of this project is not only functionality, but also usability, respons
 
 ## Tech Stack
 
-- **Python**
-- **CustomTkinter** for the GUI
-- **Tkinter** for base windowing
-- **JSON** for local data persistence
-- **Regular expressions** for syntax highlighting
-- **UUID** for unique snippet identification
+- Python
+- CustomTkinter (GUI)
+- Tkinter (base windowing)
+- JSON (local data persistence)
+- Regular expressions (syntax highlighting)
+- UUID (unique snippet identification)
 
 ---
 
-## Prebuilt Executable
+## Running Dev Jot
 
-A Windows executable is included in Dev Jot.zip for convenience.
-The ZIP contains a bundled build that can be run without installing Python or dependencies.
+### Option 1: Prebuilt Executable (Windows)
 
-Let me know what you think at nrda1991@gmail.com
+A prebuilt Windows executable is included in `Dev Jot.zip`.
+
+- Download the ZIP
+- Extract the contents
+- Run the executable directly
+
+No Python installation or dependencies are required.
